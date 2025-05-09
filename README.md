@@ -31,6 +31,7 @@ Currently i'm in my pursuit for mastery in Web3 Development.
 - 👨‍🏫 I'm graduate from **Udemy Fullstack Web Development BootCamp** at [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - 💬 Ask me about anything, I am happy to help
 - 🎮 I'm a **gamer** with 10,000+ match and 80%++ WR 💪🏻😉 in [MLBB](https://m.mobilelegends.com/)
+- 🇯🇵 Very engaged in Japan's Culture and life, love watching Anime. [My favorite character 😉](https://5hanayome.fandom.com/wiki/Nino_Nakano)
 - 🌱 I'm currently learning:
   - Web3 and BlockChain using [Internet Computer](https://internetcomputer.org/) with [Motoko](https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction) as Backend Language
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
@@ -202,7 +203,8 @@ Currently i'm in my pursuit for mastery in Web3 Development.
         <img alt="Windows" src="https://img.shields.io/badge/Windows-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMYXllcl8xIiBkYXRhLW5hbWU9IkxheWVyIDEiIHZpZXdCb3g9IjAgMCAyMTIgMjEyIj48dGl0bGU+V2luZG93cyAxMSBsb2dvIC0gQnJhbmRsb2dvcy5uZXQ8L3RpdGxlPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDojMDA3OGQ0Ii8+PHJlY3QgeD0iMTEyIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgc3R5bGU9ImZpbGw6IzAwNzhkNCIvPjxyZWN0IHk9IjExMiIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHN0eWxlPSJmaWxsOiMwMDc4ZDQiLz48cmVjdCB4PSIxMTIiIHk9IjExMiIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHN0eWxlPSJmaWxsOiMwMDc4ZDQiLz48L3N2Zz4=">
     </a>
 </p>
-## 📕Latest Project Repo
+
+## 📕 Latest Project Repo
 
 - [DKeeper App](https://github.com/chthollys/dkeeperApp)
 - [Keeper App](https://github.com/chthollys/keeper-app)
