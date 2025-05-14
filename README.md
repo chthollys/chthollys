@@ -15,11 +15,11 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=chthollys.visitor-badge)
 
-I am a self dedicated full-stack software engineer,learner and gamer. I love programming, gaming, reading and music.
+I am a self-dedicated full-stack software engineer, learner, and gamer. I love programming, gaming, reading, and music.
 
-As a software engineer, i'm enthusiast for the web development, such as BlockChain and Web3.
+As a software engineer, I'm an enthusiast for web development, such as Blockchain and Web3.
 
-Currently i'm in my pursuit for mastery in Web3 Development.
+Currently, I'm pursuing mastery in Web3 Development.
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAd/working-from.gif" width="408" height="318" style="margin-left:40"/>
 
@@ -27,7 +27,7 @@ Currently i'm in my pursuit for mastery in Web3 Development.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **2th Year Computer Science Student**
-- 🔭 I’m currently studying in [UNJ (State University of Jakarta)](https://unj.ac.id/)
+- 🔭 I’m currently studying at [UNJ (State University of Jakarta)](https://unj.ac.id/)
 - 👨‍🏫 I'm graduate from **Udemy Fullstack Web Development BootCamp** at [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - 💬 Ask me about anything, I am happy to help
 - 🎮 I'm a **gamer** with 10,000+ match and 80%++ WR 💪🏻😉 in [MLBB](https://m.mobilelegends.com/)
