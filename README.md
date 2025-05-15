@@ -36,7 +36,7 @@ Currently, I'm pursuing mastery in Web3 Development.
   - Web3 and BlockChain using [Internet Computer](https://internetcomputer.org/) with [Motoko](https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction) as Backend Language
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-f9f9f9.svg?logo=nextdotjs&logoColor=090909"></a> ecosystem
 - 📬 How to reach me: [jason130105@gmail.com](mailto:jason130105@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1AM181NQKPUwANo8MN8WhDSIsngg0Szua/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1HACjSbhaw0d8GKAleufYL83g_xyNYgbq/view?usp=sharing).
 
 ---
 
