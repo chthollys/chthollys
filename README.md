@@ -17,9 +17,9 @@
 
 I am a self-dedicated full-stack software engineer, learner, and gamer. I love programming, gaming, reading, and music.
 
-As a software engineer, I'm an enthusiast for web development, such as Blockchain and Web3.
+As a software engineer, I'm an enthusiast for developing web using the latest stack technologies, such as React.js and Next.js.
 
-Currently, I'm pursuing mastery in Web3 Development.
+Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAd/working-from.gif" width="408" height="318" style="margin-left:40"/>
 
