@@ -26,7 +26,7 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **2th Year Computer Science Student**
+- 👨‍🎓 I'm a **5th Term Computer Science Student**
 - 🔭 I’m currently studying at [UNJ (State University of Jakarta)](https://unj.ac.id/)
 - 👨‍🏫 I'm graduate from **Udemy Fullstack Web Development BootCamp** at [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - 💬 Ask me about anything, I am happy to help
