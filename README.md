@@ -17,7 +17,7 @@
 
 I am a self-dedicated full-stack software engineer, learner, and gamer. I love programming, gaming, reading, and music.
 
-As a software engineer, I'm an enthusiast for developing web using the latest stack technologies, such as React.js and Next.js.
+As a software engineer, I'm an enthusiast for developing web applications using technologia stack, such as React.js and Next.js.
 
 Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 
