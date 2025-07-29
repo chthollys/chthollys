@@ -206,7 +206,7 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 
 ## 📕 Latest Project Repo
 
+- [Vault App](https://github.com/chthollys/Vault-App) 
 - [DKeeper App](https://github.com/chthollys/dkeeperApp)
 - [Keeper App](https://github.com/chthollys/keeper-app)
 - [dBank App](https://github.com/chthollys/dbank-app)
-- [Google OAuth Secret](https://github.com/chthollys/google-OAuth-secret)
