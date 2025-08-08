@@ -33,7 +33,7 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 - 🎮 I'm a **gamer** with 10,000+ match and 80%++ WR 💪🏻😉 in [MLBB](https://m.mobilelegends.com/)
 - 🇯🇵 Very engaged in Japan's Culture and life, love watching Anime. [My favorite character 😉](https://5hanayome.fandom.com/wiki/Nino_Nakano)
 - 🌱 I'm currently learning:
-  - Web3 and BlockChain using [Internet Computer](https://internetcomputer.org/) with [Motoko](https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction) as Backend Language
+  - Cryptography, Web3, and Blockchain.
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-f9f9f9.svg?logo=nextdotjs&logoColor=090909"></a> ecosystem
 - 📬 How to reach me: [jason130105@gmail.com](mailto:jason130105@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1V5mvaVVqEudcI5lQmtIW0ir3SmuqRkjQ/view?usp=sharing).
