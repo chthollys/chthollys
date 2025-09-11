@@ -33,7 +33,7 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 - 🇯🇵 Very engaged in Japan's Culture and life, love watching Anime. [My favorite character 😉](https://5hanayome.fandom.com/wiki/Nino_Nakano)
 - 🌱 I'm currently learning:
   - Cryptography, Web3, and Blockchain.
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-f9f9f9.svg?logo=nextdotjs&logoColor=090909"></a> ecosystem
+  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="https://nestjs.com/" target="_blank"><img alt="Nest" src="https://img.shields.io/badge/Nest-1a1b1c.svg?logo=nestjs&logoColor=ea2b59"></a> ecosystem
 - 📬 How to reach me: [jason130105@gmail.com](mailto:jason130105@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1V5mvaVVqEudcI5lQmtIW0ir3SmuqRkjQ/view?usp=sharing).
 
@@ -141,9 +141,6 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 ### 💻 Software and tools
 
 <p>
-    <a href="https://brave.com/" target="_blank">
-        <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white">
-    </a>
     <a href="https://www.canva.com/" target="_blank">
         <img alt="Canva" src="https://img.shields.io/badge/Canva-f9f9f9?logo=canva&logoColor=18b3d0">
     </a>
@@ -183,9 +180,6 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
     <a href="https://code.visualstudio.com/" target="_blank">
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=">
     </a>
-    <a href="https://www.youtube.com/" target="_blank">
-        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-f9f9f9.svg?logo=youtube&logoColor=red">
-    </a>
 </p>
 
 
@@ -197,9 +191,6 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
     </a>
     <a href="https://www.linux.org/" target="_blank">
         <img alt="Linux" src="https://img.shields.io/badge/-Linux-090909?logo=linux&logoColor=white">
-    </a>
-    <a href="https://ubuntu.com/" target="_blank">
-        <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-622454?logo=ubuntu&logoColor=ea541d">
     </a>
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
         <img alt="Windows" src="https://img.shields.io/badge/Windows-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMYXllcl8xIiBkYXRhLW5hbWU9IkxheWVyIDEiIHZpZXdCb3g9IjAgMCAyMTIgMjEyIj48dGl0bGU+V2luZG93cyAxMSBsb2dvIC0gQnJhbmRsb2dvcy5uZXQ8L3RpdGxlPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDojMDA3OGQ0Ii8+PHJlY3QgeD0iMTEyIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgc3R5bGU9ImZpbGw6IzAwNzhkNCIvPjxyZWN0IHk9IjExMiIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHN0eWxlPSJmaWxsOiMwMDc4ZDQiLz48cmVjdCB4PSIxMTIiIHk9IjExMiIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHN0eWxlPSJmaWxsOiMwMDc4ZDQiLz48L3N2Zz4=">
