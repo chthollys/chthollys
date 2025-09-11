@@ -28,7 +28,6 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 
 - 👨‍🎓 I'm a **5th Term Computer Science Student**
 - 🔭 I’m currently studying at [UNJ (State University of Jakarta)](https://unj.ac.id/)
-- 👨‍🏫 I'm graduate from **Udemy Fullstack Web Development BootCamp** at [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - 💬 Ask me about anything, I am happy to help
 - 🎮 I'm a **gamer** with 10,000+ match and 80%++ WR 💪🏻😉 in [MLBB](https://m.mobilelegends.com/)
 - 🇯🇵 Very engaged in Japan's Culture and life, love watching Anime. [My favorite character 😉](https://5hanayome.fandom.com/wiki/Nino_Nakano)
@@ -63,6 +62,9 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
     <a href="https://www.javascript.com/" target="_blank">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    </a>
     <a href="https://www.markdownguide.org/" target="_blank">
         <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
     </a>
@@ -72,9 +74,6 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
     <a href="https://nodejs.org/en" target="_blank">
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
     </a>
-    <a href="https://www.php.net/" target="_blank">
-        <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
-    </a>
     <a href="https://www.python.org/" target="_blank">
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     </a>
@@ -83,9 +82,6 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
     </a>
     <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank">
         <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
     </a>
 
 </p>
@@ -105,14 +101,14 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
     <a href="https://internetcomputer.org/" target="_blank">
         <img alt="Internet Computer" src="https://img.shields.io/badge/Internet%20Computer-2ca9e0?logo=internetcomputer&logoColor=e8594c">
     </a>
-    <a href="https://numpy.org/" target="_blank">
-        <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-        <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-    </a>
     <a href="https://react.dev/" target="_blank">
         <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+      <img alt="Next" src="https://img.shields.io/badge/Next-f9f9f9.svg?logo=nextdotjs&logoColor=090909">
+    </a>
+    <a href="https://nestjs.com/" target="_blank">
+        <img alt="Nest" src="https://img.shields.io/badge/Nest-1a1b1c.svg?logo=nestjs&logoColor=ea2b59">
     </a>
     <a href="https://tailwindcss.com/" target="_blank">
         <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-grey?style=flat-square&logo=tailwindcss&logoColor=#04b5f4">
@@ -133,6 +129,12 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
     </a>
     <a href="https://www.postgresql.org/">
         <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    </a>
+    <a href="https://supabase.com/">
+        <img alt="Supabase" src ="https://img.shields.io/badge/Supabase-141414.svg?logo=supabase&logoColor=37bf81">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-ecf1eb.svg?logo=mongodb&logoColor=4da43e">
     </a>
 </p>
 
