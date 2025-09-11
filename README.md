@@ -133,6 +133,9 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
     <a href="https://supabase.com/">
         <img alt="Supabase" src ="https://img.shields.io/badge/Supabase-141414.svg?logo=supabase&logoColor=37bf81">
     </a>
+    <a href="https://cloud.google.com/">
+        <img alt="Supabase" src ="https://img.shields.io/badge/Google%20Cloud-fff.svg?logo=googlecloud&logoColor=4e89ee">
+    </a>
     <a href="https://www.mongodb.com/">
         <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-ecf1eb.svg?logo=mongodb&logoColor=4da43e">
     </a>
