@@ -35,7 +35,7 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
   - Cryptography, Web3, and Blockchain.
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="https://nestjs.com/" target="_blank"><img alt="Nest" src="https://img.shields.io/badge/Nest-1a1b1c.svg?logo=nestjs&logoColor=ea2b59"></a> ecosystem
 - 📬 How to reach me: [jason130105@gmail.com](mailto:jason130105@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1V5mvaVVqEudcI5lQmtIW0ir3SmuqRkjQ/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1rY0xosbr7swJBvvmh6inFKjtr2zSuhTQ/view?usp=sharing).
 
 ---
 
