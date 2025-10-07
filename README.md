@@ -1,4 +1,4 @@
-# Welcome to [Jason Januardy's](https://github.com/chthollys) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Jason Januardy's](https://chthollys.vercel.app/) profile! <a href="https://chthollys.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/jason-januardy/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-januardy" height="30" width="40" /></a>
 &nbsp;
@@ -32,10 +32,10 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 - 🎮 I'm a **gamer** with 10,000+ match and 80%++ WR 💪🏻😉 in [MLBB](https://m.mobilelegends.com/)
 - 🇯🇵 Very engaged in Japan's Culture and life, love watching Anime. [My favorite character 😉](https://5hanayome.fandom.com/wiki/Nino_Nakano)
 - 🌱 I'm currently learning:
-  - Cryptography, Web3, and Blockchain.
+  - Japanese language, currently pursuing N4.
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="https://nestjs.com/" target="_blank"><img alt="Nest" src="https://img.shields.io/badge/Nest-1a1b1c.svg?logo=nestjs&logoColor=ea2b59"></a> ecosystem
 - 📬 How to reach me: [jason130105@gmail.com](mailto:jason130105@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1rY0xosbr7swJBvvmh6inFKjtr2zSuhTQ/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1v60-CVkPS2SrvD9YF5mUCfuYuM_-OUxE/view?usp=sharing).
 
 ---
 
@@ -89,26 +89,26 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="https://getbootstrap.com/" target="_blank">
-        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-    </a>
-    <a href="https://internetcomputer.org/docs/building-apps/developer-tools/dfx/dfx-parent/" target="_blank">
+    <!-- <a href="https://internetcomputer.org/docs/building-apps/developer-tools/dfx/dfx-parent/" target="_blank">
         <img alt="DFX" src="https://img.shields.io/badge/dfx-121011.svg?logo=gnu-bash&logoColor=white">
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-        <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-    </a>
-    <a href="https://internetcomputer.org/" target="_blank">
-        <img alt="Internet Computer" src="https://img.shields.io/badge/Internet%20Computer-2ca9e0?logo=internetcomputer&logoColor=e8594c">
-    </a>
-    <a href="https://react.dev/" target="_blank">
+    </a> -->
+     <a href="https://react.dev/" target="_blank">
         <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
     <a href="https://nextjs.org/" target="_blank">
       <img alt="Next" src="https://img.shields.io/badge/Next-f9f9f9.svg?logo=nextdotjs&logoColor=090909">
     </a>
+    <a href="https://expressjs.com/" target="_blank">
+        <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+    </a>
+    <!-- <a href="https://internetcomputer.org/" target="_blank">
+        <img alt="Internet Computer" src="https://img.shields.io/badge/Internet%20Computer-2ca9e0?logo=internetcomputer&logoColor=e8594c">
+    </a> -->
     <a href="https://nestjs.com/" target="_blank">
         <img alt="Nest" src="https://img.shields.io/badge/Nest-1a1b1c.svg?logo=nestjs&logoColor=ea2b59">
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
     </a>
     <a href="https://tailwindcss.com/" target="_blank">
         <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-grey?style=flat-square&logo=tailwindcss&logoColor=#04b5f4">
