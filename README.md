@@ -1,4 +1,4 @@
-# Welcome to [Jason Januardy's](https://chthollys.vercel.app/) profile! <a href="https://chthollys.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Jason Januardy's](https://chthollys.is-a.dev/) profile! <a href="https://chthollys.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/jason-januardy/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-januardy" height="30" width="40" /></a>
 &nbsp;
@@ -9,8 +9,6 @@
 <a href="https://discordapp.com/users/798155294764826664" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vallieremaru" height="30" width="40" /></a>
 &nbsp;
 <a href="https://wa.me/qr/TQ2PNALD4QA2L1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Jason_Januardy" height="30" width="40" /></a>
-&nbsp;
-<a href="https://line.me/ti/p/-YT8k-WQ2w" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/640px-LINE_logo.svg.png?20220419085336" alt="JustJJ-_-" height="30" width="auto" /></a>
 &nbsp;
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=chthollys.visitor-badge)
@@ -26,7 +24,7 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **5th Term Computer Science Student**
+- 👨‍🎓 I'm a **6th Term Computer Science Student**
 - 🔭 I’m currently studying at [UNJ (State University of Jakarta)](https://unj.ac.id/)
 - 💬 Ask me about anything, I am happy to help
 - 🎮 I'm a **gamer** with 10,000+ match and 80%++ WR 💪🏻😉 in [MLBB](https://m.mobilelegends.com/)
@@ -35,7 +33,7 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
   - Japanese language, currently pursuing N4.
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="https://nestjs.com/" target="_blank"><img alt="Nest" src="https://img.shields.io/badge/Nest-1a1b1c.svg?logo=nestjs&logoColor=ea2b59"></a> ecosystem
 - 📬 How to reach me: [jason130105@gmail.com](mailto:jason130105@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1v60-CVkPS2SrvD9YF5mUCfuYuM_-OUxE/view?usp=sharing).
+- 🌐 [My Personal Web](https://chthollys.is-a.dev/).
 
 ---
 
@@ -189,20 +187,16 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 ### 💽 OS and Distro
 
 <p>
-    <a href="https://kubuntu.org/" target="_blank">
-        <img alt="Kubuntu" src="https://img.shields.io/badge/-Kubuntu-f9f9f9?logo=kubuntu&logoColor=0065fe">
-    </a>
     <a href="https://www.linux.org/" target="_blank">
         <img alt="Linux" src="https://img.shields.io/badge/-Linux-090909?logo=linux&logoColor=white">
+    </a>
+    <a href="https://archlinux.org/" target="_blank">
+        <img alt="Arch" src="https://img.shields.io/badge/-Arch-f9f9f9?logo=archlinux&logoColor=1793d1">
+    </a>
+    <a href="https://kubuntu.org/" target="_blank">
+        <img alt="Kubuntu" src="https://img.shields.io/badge/-Kubuntu-f9f9f9?logo=kubuntu&logoColor=0065fe">
     </a>
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
         <img alt="Windows" src="https://img.shields.io/badge/Windows-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMYXllcl8xIiBkYXRhLW5hbWU9IkxheWVyIDEiIHZpZXdCb3g9IjAgMCAyMTIgMjEyIj48dGl0bGU+V2luZG93cyAxMSBsb2dvIC0gQnJhbmRsb2dvcy5uZXQ8L3RpdGxlPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDojMDA3OGQ0Ii8+PHJlY3QgeD0iMTEyIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgc3R5bGU9ImZpbGw6IzAwNzhkNCIvPjxyZWN0IHk9IjExMiIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHN0eWxlPSJmaWxsOiMwMDc4ZDQiLz48cmVjdCB4PSIxMTIiIHk9IjExMiIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHN0eWxlPSJmaWxsOiMwMDc4ZDQiLz48L3N2Zz4=">
     </a>
 </p>
-
-## 📕 Latest Project Repo
-
-- [Vault App](https://github.com/chthollys/Vault-App) 
-- [DKeeper App](https://github.com/chthollys/dkeeperApp)
-- [Keeper App](https://github.com/chthollys/keeper-app)
-- [dBank App](https://github.com/chthollys/dbank-app)
