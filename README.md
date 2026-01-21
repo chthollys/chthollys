@@ -202,9 +202,6 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 </p>
 
 ---
-## 📊 My Github Stats
-
-[![chthollys's GitHub stats](https://github-readme-stats-one-xi-19.vercel.app/api?username=chthollys&theme=github_dark)](https://github.com/chthollys)
 
 ## ⚒️ Top Languages
 ![Top Languages](https://github-readme-stats-one-xi-19.vercel.app/api/top-langs/?username=chthollys&langs_count=5&theme=github_dark)   
