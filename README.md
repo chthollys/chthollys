@@ -200,8 +200,3 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
         <img alt="Windows" src="https://img.shields.io/badge/Windows-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJMYXllcl8xIiBkYXRhLW5hbWU9IkxheWVyIDEiIHZpZXdCb3g9IjAgMCAyMTIgMjEyIj48dGl0bGU+V2luZG93cyAxMSBsb2dvIC0gQnJhbmRsb2dvcy5uZXQ8L3RpdGxlPjxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBzdHlsZT0iZmlsbDojMDA3OGQ0Ii8+PHJlY3QgeD0iMTEyIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgc3R5bGU9ImZpbGw6IzAwNzhkNCIvPjxyZWN0IHk9IjExMiIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHN0eWxlPSJmaWxsOiMwMDc4ZDQiLz48cmVjdCB4PSIxMTIiIHk9IjExMiIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHN0eWxlPSJmaWxsOiMwMDc4ZDQiLz48L3N2Zz4=">
     </a>
 </p>
-
----
-
-## ⚒️ Top Languages
-![Top Languages](https://github-readme-stats-one-xi-19.vercel.app/api/top-langs/?username=chthollys&langs_count=5&theme=github_dark)   
