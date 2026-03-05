@@ -17,7 +17,7 @@ I am a self-dedicated full-stack software engineer, learner, and gamer. I love p
 
 As a software engineer, I'm an enthusiast for developing web applications using technologia stack, such as React.js and Next.js.
 
-Currently, I'm pursuing mastery in Blockchain and Web3 Development.
+Currently, I'm pursuing mastery in Machine Learning, and learning Japanese for the upcoming N4 test.
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAd/working-from.gif" width="408" height="318" style="margin-left:40"/>
 
@@ -31,7 +31,7 @@ Currently, I'm pursuing mastery in Blockchain and Web3 Development.
 - 🇯🇵 Very engaged in Japan's Culture and life, love watching Anime. [My favorite character 😉](https://5hanayome.fandom.com/wiki/Nino_Nakano)
 - 🌱 I'm currently learning:
   - Japanese language, currently pursuing N4.
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="https://nestjs.com/" target="_blank"><img alt="Nest" src="https://img.shields.io/badge/Nest-1a1b1c.svg?logo=nestjs&logoColor=ea2b59"></a> ecosystem
+  - Mastering tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> and <a href="https://nestjs.com/" target="_blank"><img alt="Nest" src="https://img.shields.io/badge/Nest-1a1b1c.svg?logo=nestjs&logoColor=ea2b59"></a> ecosystem
 - 📬 How to reach me: [jason130105@gmail.com](mailto:jason130105@gmail.com)
 - 🌐 [My Personal Web](https://chthollys.is-a.dev/).
 
